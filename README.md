@@ -1,24 +1,14 @@
-# README
+# instagramApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ This mostly works. However, there was a ImageMagick error
+ (I'm not sure whether it's OS related since I'm using Windows)
+ when uploading photos.
 
-Things you may want to cover:
+ This is the followed tutorial for BeginnerProgrammer's 30 Minutes to an 
+ Instagram Website with Ruby on Rails. 
 
-* Ruby version
+ Website screenshots:
 
-* System dependencies
+ ![Login Pic](https://raw.githubusercontent.com/hmc-cs-squirrel/instagramApp/instaApp/login.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ ![Login Pic](https://raw.githubusercontent.com/hmc-cs-squirrel/instagramApp/instaApp/signup.png)
